@@ -14,7 +14,7 @@ How to write a nice Literature Review
 - https://guides.library.ucsc.edu/write-a-literature-review
 
 Types of Abstracts (Social Sciences)
-http://libguides.usc.edu/writingguide/abstract
+- http://libguides.usc.edu/writingguide/abstract
 
 How to write a letter to the editors
 - https://www.aje.com/en/arc/writing-cover-letter/
